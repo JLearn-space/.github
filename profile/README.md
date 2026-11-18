@@ -1,8 +1,18 @@
 # **JLearn**
 *[JLearn.space](https://jlearn.space)*
 
-**EN** - An educational platform based on a competency-based approach. *Just 10 lessons and you'll confidently master the fundamentals of programming.*
+**EN** - An educational platform based on a competency-based approach. Every lesson ends with a practice task in the built-in IDE with automatic checking, and a short test.
 
-**RU** - Образовательная платформа на основе компетентностного подхода. *Всего 10 уроков и вы уверенно владеете основами программирования.*
+**RU** - Образовательная платформа на основе компетентностного подхода. Каждый урок завершается практическим заданием во встроенной IDE с автоматической проверкой и коротким тестом.
 
-**UZ** - Kompetentlik yondashuviga asoslangan ta'lim platformasi. *Atigi 10 dars va siz dasturlash asoslarini ishonchli egallaysiz.*
+**UZ** - Kompetentlik yondashuviga asoslangan ta'lim platformasi. Har bir dars o'rnatilgan IDE'dagi avtomatik tekshiriladigan amaliy topshiriq va qisqa test bilan yakunlanadi.
+
+---
+
+## Курсы / Courses / Kurslar
+
+| Курс | Уроков | Языки | |
+| --- | :---: | :---: | --- |
+| **HTML: за 10 уроков** - от первой страницы до опубликованного сайта | 10 | RU · UZ · EN | [**Изучать →**](https://github.com/JLearn-space/JLearn-docs/tree/main/HTML) |
+
+[![Изучать курс HTML](https://img.shields.io/badge/%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%82%D1%8C-%D0%BA%D1%83%D1%80%D1%81%20HTML-4338ca?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/JLearn-space/JLearn-docs/tree/main/HTML)
